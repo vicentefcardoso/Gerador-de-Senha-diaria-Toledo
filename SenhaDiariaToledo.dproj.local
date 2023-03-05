@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/03/05 01:23:15.839,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/05 01:24:02.600,D:\Git Projects\VCL\Gerador de Senha diaria Toledo\Principal.pas=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/05 01:24:02.600,D:\Git Projects\VCL\Gerador de Senha diaria Toledo\Principal.dfm=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2023/03/05 01:24:10.335,D:\Git Projects\VCL\Gerador de Senha diaria Toledo\SenhaDiariaToledo.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

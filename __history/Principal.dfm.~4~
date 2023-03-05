@@ -1,0 +1,40 @@
+object FrmPrincipal: TFrmPrincipal
+  Left = 0
+  Top = 0
+  BorderStyle = bsDialog
+  Caption = 'Senha Di'#225'ria Toledo'
+  ClientHeight = 136
+  ClientWidth = 424
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  Position = poOwnerFormCenter
+  TextHeight = 15
+  object PnlSenha: TPanel
+    AlignWithMargins = True
+    Left = 3
+    Top = 3
+    Width = 418
+    Height = 54
+    Align = alTop
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clBlue
+    Font.Height = -21
+    Font.Name = 'Segoe UI Semibold'
+    Font.Style = [fsBold, fsItalic]
+    ParentFont = False
+    TabOrder = 0
+  end
+  object BtnGerarSenha: TButton
+    Left = 72
+    Top = 88
+    Width = 257
+    Height = 40
+    Caption = 'Gerar Senha'
+    TabOrder = 1
+    OnClick = BtnGerarSenhaClick
+  end
+end
